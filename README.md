@@ -28,7 +28,7 @@ This is an attempt at practicing, creating, and editing a sample repository.
 - [Step 3](https://www.example.com)
 - [Help Page](https://www.example.com)
 
-**Additional Documentation
+**Additional Documentation**
 ---------------------------
 [*Files*](https://www.example.com)
   - List filenames and brief descroption of their contents
